@@ -2,6 +2,7 @@
 Un blog increíble
 > El blog contiene información sobre prácticas de Git y GitHub.
 > - El curso es muy interesante
+> - Buenas prácticas de DevOps
 
 Los gatos de la casa 😺😺 son:
 * Bingo
